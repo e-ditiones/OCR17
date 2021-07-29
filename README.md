@@ -4,7 +4,7 @@ Ground truth and models for 17th c. French prints.
 
 
 ```diff
-- This repo is not used anymore. Please use the OCR17plus repo, which uses XML files and not .png/.txt pairs.
+- This repo is not updated anymore. Please use the OCR17plus repo, which uses XML files and not .png/.txt pairs.
 ```
 
 For the OCR17plus repo, cf. [here](https://github.com/e-ditiones/OCR17plus).
